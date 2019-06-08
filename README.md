@@ -1,2 +1,2 @@
 # Instaedit
-Instagram Edit Profile by command line
+Instagram Edit Profile by command line.
